@@ -1,1 +1,6 @@
-Teste
+Teste 
+APRENDEMOS  A CLONAR REPOSITORIOS
+E TRABALHAR COM COLABORADORES
+-git clone "link REPOSITORIO"
+-git push
+-git pull
