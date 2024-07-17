@@ -1,5 +1,9 @@
 Aula Revisão de GitHub
 
+PRIMEIRA VEZ USANDO Git
+- git config --global user.name "seu nome"
+- git config --global user.email "seu email"
+
 COMANDOS INICIAIS
 - git init
 - git add .
@@ -7,3 +11,9 @@ COMANDOS INICIAIS
 - git branch -M main
 - git remote add origin https://github.com/jeffersongvs/revisao-github.git
 - git push -u origin main
+
+AGORA QUE ESTA COM O REPOSITORIO REMOTO, SO PRECISAMOS
+SEGUIR A TRIADE
+- git add .
+- git commit -m "mensagem"
+- git push
